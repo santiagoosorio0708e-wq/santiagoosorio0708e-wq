@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Ecosistema Tecnológico">
+  <defs>
+    <linearGradient id="tec-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c16"/>
+      <stop offset="100%" stop-color="#0e172a"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  </style>
+  <rect width="1200" height="230" rx="14" fill="url(#tec-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+
+  <!-- Row 1: Frameworks & Backend -->
+  <g transform="translate(40, 35)">
+    <text x="0" y="0" class="font-mono" font-size="12" font-weight="700" fill="#38bdf8">BACKEND &amp; SERVICIOS:</text>
+    <text x="190" y="0" class="font-sans" font-size="14" fill="#cbd5e1">
+      <tspan font-weight="700" fill="#ffffff">Java 21</tspan>, Spring Boot 3, Spring Security, Node.js, Express, Python 3.10+, Web Components ES6+
+    </text>
+  </g>
+
+  <!-- Row 2: Automatización & IA -->
+  <g transform="translate(40, 80)">
+    <text x="0" y="0" class="font-mono" font-size="12" font-weight="700" fill="#f43f5e">AUTOMATIZACIÓN &amp; IA:</text>
+    <text x="190" y="0" class="font-sans" font-size="14" fill="#cbd5e1">
+      <tspan font-weight="700" fill="#ffffff">n8n</tspan>, Google Gemini API, Telegram Bot API, Baileys (WhatsApp WebSockets), Google Sheets API, LLM Tool Calling
+    </text>
+  </g>
+
+  <!-- Row 3: Bases de Datos & Cloud -->
+  <g transform="translate(40, 125)">
+    <text x="0" y="0" class="font-mono" font-size="12" font-weight="700" fill="#34d399">BASES DE DATOS &amp; DEVOPS:</text>
+    <text x="190" y="0" class="font-sans" font-size="14" fill="#cbd5e1">
+      <tspan font-weight="700" fill="#ffffff">PostgreSQL</tspan>, MySQL, SQLite, Docker, Docker Compose, Render, Netlify, Linux/Bash
+    </text>
+  </g>
+
+  <!-- Row 4: Calidad y Entrega -->
+  <g transform="translate(40, 170)">
+    <text x="0" y="0" class="font-mono" font-size="12" font-weight="700" fill="#c084fc">CALIDAD &amp; HERRAMIENTAS:</text>
+    <text x="190" y="0" class="font-sans" font-size="14" fill="#cbd5e1">
+      <tspan font-weight="700" fill="#ffffff">Postman API Testing</tspan>, JUnit 5, Git, GitHub (GitFlow), Swagger/OpenAPI, Maven, Scrum/Agile
+    </text>
+  </g>
+</svg>

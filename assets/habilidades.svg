@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Habilidades Blandas">
+  <defs>
+    <linearGradient id="hab-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="100%" stop-color="#10192e"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  </style>
+  <rect width="1200" height="280" rx="14" fill="url(#hab-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+
+  <!-- Col 1: Liderazgo y Scrum -->
+  <g transform="translate(40, 40)">
+    <rect width="210" height="200" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1"/>
+    <text x="20" y="35" class="font-sans" font-size="16" font-weight="700" fill="#38bdf8">🤝 Cultura Ágil</text>
+    <text x="20" y="60" class="font-sans" font-size="14" font-weight="600" fill="#ffffff">Scrum &amp; GitFlow</text>
+    <text x="20" y="85" class="font-sans" font-size="12" fill="#94a3b8">Facilitación de standups y retrospectivas en equipo. Control estricto de ramas y code reviews.</text>
+    <text x="20" y="165" class="font-mono" font-size="10.5" fill="#38bdf8">EJEMPLO: Formula 1 &amp; SICA</text>
+  </g>
+
+  <!-- Col 2: Resolución Metódica -->
+  <g transform="translate(270, 40)">
+    <rect width="210" height="200" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(52, 211, 153, 0.25)" stroke-width="1"/>
+    <text x="20" y="35" class="font-sans" font-size="16" font-weight="700" fill="#34d399">🧩 Lógica Pura</text>
+    <text x="20" y="60" class="font-sans" font-size="14" font-weight="600" fill="#ffffff">Resolución Analítica</text>
+    <text x="20" y="85" class="font-sans" font-size="12" fill="#94a3b8">Descomposición de reglas de negocio complejas en arquitecturas modulares desacopladas.</text>
+    <text x="20" y="165" class="font-mono" font-size="10.5" fill="#34d399">EJEMPLO: 104 Consultas SQL</text>
+  </g>
+
+  <!-- Col 3: Comunicación Técnica -->
+  <g transform="translate(500, 40)">
+    <rect width="210" height="200" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(168, 85, 247, 0.25)" stroke-width="1"/>
+    <text x="20" y="35" class="font-sans" font-size="16" font-weight="700" fill="#c084fc">📋 Asertividad</text>
+    <text x="20" y="60" class="font-sans" font-size="14" font-weight="600" fill="#ffffff">Documentación Clara</text>
+    <text x="20" y="85" class="font-sans" font-size="12" fill="#94a3b8">Especificación de APIs en Postman/Swagger, contratos de datos legibles y código autodocumentado.</text>
+    <text x="20" y="165" class="font-mono" font-size="10.5" fill="#c084fc">EJEMPLO: Colecciones Postman</text>
+  </g>
+
+  <!-- Col 4: Adaptabilidad -->
+  <g transform="translate(730, 40)">
+    <rect width="210" height="200" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(245, 158, 11, 0.25)" stroke-width="1"/>
+    <text x="20" y="35" class="font-sans" font-size="16" font-weight="700" fill="#fbbf24">🚀 Aprendizaje</text>
+    <text x="20" y="60" class="font-sans" font-size="14" font-weight="600" fill="#ffffff">Adaptabilidad Rápida</text>
+    <text x="20" y="85" class="font-sans" font-size="12" fill="#94a3b8">Adopción de nuevas herramientas en tiempo récord: contenedores Docker, n8n y modelos LLM.</text>
+    <text x="20" y="165" class="font-mono" font-size="10.5" fill="#fbbf24">EJEMPLO: Hackathon GUARDIAN</text>
+  </g>
+
+  <!-- Col 5: Rigor y Calidad -->
+  <g transform="translate(960, 40)">
+    <rect width="200" height="200" rx="10" fill="rgba(255,255,255,0.02)" stroke="rgba(244, 63, 94, 0.25)" stroke-width="1"/>
+    <text x="20" y="35" class="font-sans" font-size="16" font-weight="700" fill="#f43f5e">🎯 Rigor Técnico</text>
+    <text x="20" y="60" class="font-sans" font-size="14" font-weight="600" fill="#ffffff">Calidad y Entrega</text>
+    <text x="20" y="85" class="font-sans" font-size="12" fill="#94a3b8">Cero despliegues a ciegas: entornos reproducibles con Docker y pruebas unitarias integradas.</text>
+    <text x="20" y="165" class="font-mono" font-size="10.5" fill="#f43f5e">EJEMPLO: Renta Herramientas</text>
+  </g>
+</svg>

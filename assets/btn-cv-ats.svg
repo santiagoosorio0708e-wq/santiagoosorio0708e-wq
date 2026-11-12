@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="54" viewBox="0 0 220 54" role="img" aria-label="HDV ATS (PDF)">
+    <defs>
+      <linearGradient id="btn-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="100%" stop-color="#1e293b"/>
+      </linearGradient>
+    </defs>
+    <style>
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    </style>
+    <rect width="220" height="54" rx="10" fill="url(#btn-bg)" stroke="rgba(255,255,255,0.12)" stroke-width="1.2"/>
+    <rect x="0" y="0" width="4" height="54" rx="2" fill="#38bdf8"/>
+    <g transform="translate(18, 15)">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" fill="none" stroke="#38bdf8" stroke-width="2"/><polyline points="14 2 14 8 20 8" fill="none" stroke="#38bdf8" stroke-width="2"/><line x1="16" y1="13" x2="8" y2="13" stroke="#38bdf8" stroke-width="2"/><line x1="16" y1="17" x2="8" y2="17" stroke="#38bdf8" stroke-width="2"/>
+    </g>
+    <text x="54" y="25" class="font-sans" font-size="14" font-weight="700" fill="#ffffff">HDV ATS (PDF)</text>
+    <text x="54" y="41" class="font-mono" font-size="10.5" fill="#94a3b8">Estándar para selección</text>
+  </svg>

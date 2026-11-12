@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Enfoque Técnico">
+  <defs>
+    <linearGradient id="enf-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a101f"/>
+      <stop offset="100%" stop-color="#0f1933"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .font-mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  </style>
+  <rect width="1200" height="260" rx="14" fill="url(#enf-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+
+  <!-- Pilar 1 -->
+  <g transform="translate(40, 35)">
+    <rect width="260" height="190" rx="10" fill="rgba(255,255,255,0.03)" stroke="rgba(56, 189, 248, 0.3)" stroke-width="1"/>
+    <text x="20" y="30" class="font-mono" font-size="12" font-weight="700" fill="#38bdf8">[01] BACKEND &amp; CONCURRENCIA</text>
+    <text x="20" y="55" class="font-sans" font-size="15" font-weight="700" fill="#ffffff">Java 21 &amp; Spring Boot</text>
+    <text x="20" y="80" class="font-sans" font-size="12.5" fill="#94a3b8">Arquitectura hexagonal, sincronización multihilo (CyclicBarrier), APIs RESTful seguras y alta disponibilidad.</text>
+    <text x="20" y="160" class="font-mono" font-size="11" fill="#38bdf8">Formula 1 · Renta Herramientas</text>
+  </g>
+
+  <!-- Pilar 2 -->
+  <g transform="translate(325, 35)">
+    <rect width="260" height="190" rx="10" fill="rgba(255,255,255,0.03)" stroke="rgba(52, 211, 153, 0.3)" stroke-width="1"/>
+    <text x="20" y="30" class="font-mono" font-size="12" font-weight="700" fill="#34d399">[02] DOCKER &amp; CONTENEDORES</text>
+    <text x="20" y="55" class="font-sans" font-size="15" font-weight="700" fill="#ffffff">Aislamiento &amp; Cloud</text>
+    <text x="20" y="80" class="font-sans" font-size="12.5" fill="#94a3b8">Entornos encapsulados con Docker Compose, base de datos PostgreSQL/MySQL aisladas y despliegues productivos.</text>
+    <text x="20" y="160" class="font-mono" font-size="11" fill="#34d399">Render · Docker Compose</text>
+  </g>
+
+  <!-- Pilar 3 -->
+  <g transform="translate(610, 35)">
+    <rect width="260" height="190" rx="10" fill="rgba(255,255,255,0.03)" stroke="rgba(244, 63, 94, 0.3)" stroke-width="1"/>
+    <text x="20" y="30" class="font-mono" font-size="12" font-weight="700" fill="#f43f5e">[03] AUTOMATIZACIÓN &amp; IA</text>
+    <text x="20" y="55" class="font-sans" font-size="15" font-weight="700" fill="#ffffff">n8n + Google Gemini</text>
+    <text x="20" y="80" class="font-sans" font-size="12.5" fill="#94a3b8">Bots conversacionales en Telegram/WhatsApp, orquestación de webhooks y procesamiento de lenguaje natural.</text>
+    <text x="20" y="160" class="font-mono" font-size="11" fill="#f43f5e">DeliveryBot · Chatbot Contaduría</text>
+  </g>
+
+  <!-- Pilar 4 -->
+  <g transform="translate(895, 35)">
+    <rect width="265" height="190" rx="10" fill="rgba(255,255,255,0.03)" stroke="rgba(168, 85, 247, 0.3)" stroke-width="1"/>
+    <text x="20" y="30" class="font-mono" font-size="12" font-weight="700" fill="#c084fc">[04] CALIDAD &amp; POSTMAN</text>
+    <text x="20" y="55" class="font-sans" font-size="15" font-weight="700" fill="#ffffff">Validación Rigurosa</text>
+    <text x="20" y="80" class="font-sans" font-size="12.5" fill="#94a3b8">Colecciones automatizadas de endpoints, verificación de contratos de schemas JSON y persistencia relacional SQL.</text>
+    <text x="20" y="160" class="font-mono" font-size="11" fill="#c084fc">Postman Tests · Clean Architecture</text>
+  </g>
+</svg>
