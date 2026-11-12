@@ -13,5 +13,5 @@
   <rect x="0" y="0" width="4" height="65" rx="2" fill="#facc15"/>
   <text x="20" y="28" class="font-sans" font-size="15" font-weight="800" fill="#ffffff">JavaScript</text>
   <text x="20" y="48" class="font-mono" font-size="10.5" fill="#facc15">Banco ACME (SPA)</text>
-  <text x="195" y="38" class="font-mono" font-size="14" fill="#facc15">?</text>
+  <text x="195" y="38" class="font-mono" font-size="14" fill="#facc15">&#x2197;</text>
 </svg>

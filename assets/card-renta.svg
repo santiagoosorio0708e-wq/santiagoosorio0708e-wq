@@ -13,7 +13,7 @@
     <rect x="0" y="0" width="5" height="220" rx="2" fill="#f59e0b"/>
 
     <g transform="translate(25, 30)">
-      <text x="0" y="0" class="font-mono" font-size="11" font-weight="700" fill="#f59e0b" letter-spacing="1">BACKEND SPRING BOOT & HEXAGONAL</text>
+      <text x="0" y="0" class="font-mono" font-size="11" font-weight="700" fill="#f59e0b" letter-spacing="1">BACKEND SPRING BOOT &amp; HEXAGONAL</text>
       <text x="0" y="28" class="font-sans" font-size="20" font-weight="800" fill="#ffffff">Renta de Herramientas</text>
       <text x="0" y="60" class="font-sans" font-size="13" fill="#94a3b8">
         Sistema de alquiler de maquinaria con control de reservas, devoluciones, cálculo de IVA y cobro por daños. Arq

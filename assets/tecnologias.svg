@@ -11,7 +11,7 @@
   </style>
   <rect width="1200" height="230" rx="14" fill="url(#tec-bg)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
 
-  <!-- Row 1: Frameworks & Backend -->
+  <!-- Row 1: Frameworks &amp; Backend -->
   <g transform="translate(40, 35)">
     <text x="0" y="0" class="font-mono" font-size="12" font-weight="700" fill="#38bdf8">BACKEND &amp; SERVICIOS:</text>
     <text x="190" y="0" class="font-sans" font-size="14" fill="#cbd5e1">
@@ -19,7 +19,7 @@
     </text>
   </g>
 
-  <!-- Row 2: Automatización & IA -->
+  <!-- Row 2: Automatización &amp; IA -->
   <g transform="translate(40, 80)">
     <text x="0" y="0" class="font-mono" font-size="12" font-weight="700" fill="#f43f5e">AUTOMATIZACIÓN &amp; IA:</text>
     <text x="190" y="0" class="font-sans" font-size="14" fill="#cbd5e1">
@@ -27,7 +27,7 @@
     </text>
   </g>
 
-  <!-- Row 3: Bases de Datos & Cloud -->
+  <!-- Row 3: Bases de Datos &amp; Cloud -->
   <g transform="translate(40, 125)">
     <text x="0" y="0" class="font-mono" font-size="12" font-weight="700" fill="#34d399">BASES DE DATOS &amp; DEVOPS:</text>
     <text x="190" y="0" class="font-sans" font-size="14" fill="#cbd5e1">

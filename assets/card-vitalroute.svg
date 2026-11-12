@@ -13,7 +13,7 @@
     <rect x="0" y="0" width="5" height="220" rx="2" fill="#818cf8"/>
 
     <g transform="translate(25, 30)">
-      <text x="0" y="0" class="font-mono" font-size="11" font-weight="700" fill="#818cf8" letter-spacing="1">GESTIÓN & LOGÍSTICA DE RUTAS</text>
+      <text x="0" y="0" class="font-mono" font-size="11" font-weight="700" fill="#818cf8" letter-spacing="1">GESTIÓN &amp; LOGÍSTICA DE RUTAS</text>
       <text x="0" y="28" class="font-sans" font-size="20" font-weight="800" fill="#ffffff">Vital-Route</text>
       <text x="0" y="60" class="font-sans" font-size="13" fill="#94a3b8">
         Plataforma backend estructurada en TypeScript con arquitectura limpia para el cálculo y optimización de despac

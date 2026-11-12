@@ -102,10 +102,10 @@ Manejo persistencia relacional estricta con **PostgreSQL y MySQL** (modelado ent
 </div>
 
 <p align="center">
-  <a href="https://github.com/santiagoosorio0708e-wq/Formula1-java/tree/main/Formula1"><img src="assets/lang-java.svg" width="19%" alt="Java 21: Formula 1 Multihilo" /></a>
-  <a href="https://github.com/santiagoosorio0708e-wq/chatbot-futbol"><img src="assets/lang-python.svg" width="19%" alt="Python: Chatbot & Viajes" /></a>
-  <a href="https://github.com/santiagoosorio0708e-wq/Vital-Route"><img src="assets/lang-typescript.svg" width="19%" alt="TypeScript: VitalRoute" /></a>
-  <a href="https://github.com/santiagoosorio0708e-wq/Banco-ACME"><img src="assets/lang-javascript.svg" width="19%" alt="JavaScript: Banco ACME SPA" /></a>
+  <a href="https://github.com/santiagoosorio0708e-wq/Formula1-java/tree/develop/src"><img src="assets/lang-java.svg" width="19%" alt="Java 21: Formula 1 Multihilo" /></a>
+  <a href="https://github.com/santiagoosorio0708e-wq/chatbot-futbol"><img src="assets/lang-python.svg" width="19%" alt="Python: Chatbot &amp; Viajes" /></a>
+  <a href="https://github.com/santiagoosorio0708e-wq/Vital-Route/tree/master/api"><img src="assets/lang-typescript.svg" width="19%" alt="TypeScript: VitalRoute" /></a>
+  <a href="https://github.com/santiagoosorio0708e-wq/Banco-ACME/tree/main/js"><img src="assets/lang-javascript.svg" width="19%" alt="JavaScript: Banco ACME SPA" /></a>
   <a href="https://github.com/santiagoosorio0708e-wq/consultas-postgres"><img src="assets/lang-sql.svg" width="19%" alt="SQL: 104 Consultas Postgres" /></a>
 </p>
 
