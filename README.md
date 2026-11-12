@@ -20,11 +20,11 @@
 
   <!-- Botones de Acción Rápida -->
   <p>
-    <a href="https://linkedin.com/in/santiago-osorio-dev"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/daniel-santiago-osorio-garc%C3%A9s-03b7633a6/"><img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn" /></a>
     <a href="mailto:santiagoosorio0708e@gmail.com"><img src="assets/btn-correo.svg" height="48" alt="Correo" /></a>
     <a href="https://zingy-toffee-b7c66c.netlify.app"><img src="assets/btn-portafolio.svg" height="48" alt="Portafolio" /></a>
     <a href="https://drive.google.com/file/d/1bQABV_C9gZE0iSe6uRBOpIkgEr5aiXaP/view?usp=sharing"><img src="assets/btn-cv-ats.svg" height="48" alt="HDV ATS en Google Drive" /></a>
-    <a href="cv/HojaDeVida_Campuslands_DanielOsorio.pdf"><img src="assets/btn-cv-campus.svg" height="48" alt="HDV Campuslands en PDF" /></a>
+    <a href="https://drive.google.com/file/d/1xJmhhROu52DpJHZ2JbXHRRwl4OWtTp86/view?usp=sharing"><img src="assets/btn-cv-campus.svg" height="48" alt="HDV Campuslands en Google Drive" /></a>
     <a href="https://wa.me/573014609110"><img src="assets/btn-whatsapp.svg" height="48" alt="WhatsApp" /></a>
   </p>
 
@@ -395,12 +395,14 @@ docker compose logs -f app
 </div>
 
 * **Ubicación:** Bucaramanga, Santander, Colombia (Disponible para trabajo remoto e híbrido)
+* **LinkedIn:** [linkedin.com/in/daniel-santiago-osorio-garcés](https://www.linkedin.com/in/daniel-santiago-osorio-garc%C3%A9s-03b7633a6/)
 * **Correo Electrónico:** [santiagoosorio0708e@gmail.com](mailto:santiagoosorio0708e@gmail.com)
 * **WhatsApp Directo:** [+57 301 460 9110](https://wa.me/573014609110)
 * **Portafolio Web:** [zingy-toffee-b7c66c.netlify.app](https://zingy-toffee-b7c66c.netlify.app) *(Incluye simulador interactivo de proyectos en vivo y consola de terminal)*
 * **Perfil de GitHub:** [@santiagoosorio0708e-wq](https://github.com/santiagoosorio0708e-wq)
 * **Hoja de Vida ATS (Google Drive):** [Abrir en Google Drive ↗](https://drive.google.com/file/d/1bQABV_C9gZE0iSe6uRBOpIkgEr5aiXaP/view?usp=sharing)
 * **Hoja de Vida ATS (Descarga directa PDF):** [Descargar HojaDeVida_ATS_DanielOsorio.pdf](cv/HojaDeVida_ATS_DanielOsorio.pdf)
+* **Hoja de Vida Campuslands (Google Drive):** [Abrir en Google Drive ↗](https://drive.google.com/file/d/1xJmhhROu52DpJHZ2JbXHRRwl4OWtTp86/view?usp=sharing)
 * **Hoja de Vida Campuslands (Descarga directa PDF):** [Descargar HojaDeVida_Campuslands_DanielOsorio.pdf](cv/HojaDeVida_Campuslands_DanielOsorio.pdf)
 
 <br/>
